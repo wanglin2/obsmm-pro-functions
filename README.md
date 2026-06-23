@@ -88,6 +88,34 @@
 
 > 专业版支持更多结构：表格、时间轴、鱼骨图。
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-14-00.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-14-23.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-14-39.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-15-01.png" width="200"/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-15-14.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-15-25.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-15-36.png" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 节点支持添加标记
 
 - 节点支持一键编号
