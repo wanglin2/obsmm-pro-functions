@@ -73,6 +73,17 @@
 
 > 两种方式：演示模式中的填空模式、画布右键菜单直接进入填空模式。
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/5.gif" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/6.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 专业版专属结构
 
 > 专业版支持更多结构：表格、时间轴、鱼骨图。
