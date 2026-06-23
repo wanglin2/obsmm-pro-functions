@@ -1,6 +1,6 @@
 【English | [简体中文](./README.md)】
 
-# Obsidian simple-mind-map Plugin Pro Version Feature List
+# Obsidian SimpleMindMap Plugin Pro Version Feature List
 
 ## 0.2.1
 

@@ -1,10 +1,30 @@
 【[English](./README_en.md) | 简体中文】
 
-# Obsidian simple-mind-map 插件专业版功能清单
+# Obsidian SimpleMindMap 插件专业版功能清单
 
 ## 0.2.1
 
 - 支持导出为Excel、Freemind、JPG、Mermaid、html格式文件
+
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/Snipaste_2026-06-23_11-24-02.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/Snipaste_2026-06-23_11-26-04.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/Snipaste_2026-06-23_11-25-24.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/Snipaste_2026-06-23_11-26-15.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/Snipaste_2026-06-23_11-29-22.png" width="200"/>
+        </td>
+    </tr>
+</table>
 
 - 导出的pdf文件节点超链接支持点击
 
@@ -40,22 +60,22 @@
 
 - 支持smm代码块嵌入编辑
 
-> 1.支持以```smm```格式嵌入代码块，嵌入后可转换为思维导图视图进行编辑；
-> 
+> 1.支持以`smm`格式嵌入代码块，嵌入后可转换为思维导图视图进行编辑；
+>
 > 2.仅支持基本的编辑能力：文本编辑（支持显示富文本工具栏）、快捷键操作、鼠标操作；
-> 
+>
 > 3.编辑视图右下角提供两个操作图标：回到根节点、适应画布；
-> 
+>
 > 3.编辑完成后，鼠标点击文档其他位置，会自动更新代码块源数据；
-> 
+>
 > 4.支持在设置中设置代码块嵌入的初始高度；
-> 
+>
 > 5.支持拖拽调整高度；
 
 - 支持扩展思维导图可用的字体
 
 > 1.在设置中管理字体；
-> 
+>
 > 2.新增的字体会在思维导图所有字体选择器中显示；
 
 - 支持新标签页预览为思维导图：
