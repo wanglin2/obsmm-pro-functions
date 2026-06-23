@@ -171,9 +171,36 @@
 
 - 专属节点形状
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-28-22.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-31-07.png" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 节点外框样式支持设置不包含子节点
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/12.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 画布支持拖动的动量效果
+
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/13.gif" width="200"/>
+        </td>
+    </tr>
+</table>
 
 - 支持smm代码块嵌入编辑
 
