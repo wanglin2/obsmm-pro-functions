@@ -34,7 +34,7 @@
             <img src="./assets/images/0.2.1/Snipaste_2026-06-23_13-37-45.png" width="200"/>
         </td>
         <td align="center" style="word-wrap: break-word; width: 200; height: 200">
-            <img src="./assets/images/0.2.1/1782193771271.mp4" width="200"/>
+            <video src="./assets/images/0.2.1/1782193771271.mp4" width="200"/>
         </td>
     </tr>
 </table>
