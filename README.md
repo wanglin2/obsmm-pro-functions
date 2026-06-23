@@ -233,13 +233,32 @@
 >
 > 2.新增的字体会在思维导图所有字体选择器中显示；
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/16.gif" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/17.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 支持新标签页预览为思维导图：
 
 > 打开Markdown文件时，可点击右上角更多按钮中的【新标签页预览为思维导图】按钮，会在新标签页中打开当前文件并预览为思维导图；
 
 > Markdown文件修改后，预览的思维导图会自动更新；
 
-更多专业版功能持续更新中...
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/18.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
+更多专业版功能（颜色控件pro、数学公式pro、节点标签pro、节点链接、同级节点对齐、演示指定节点、给自由节点树设置独立结构、上传自定义图标、框选演示模式、进入到指定节点、节点描述、自定义主题、专属主题、手绘风格等）持续更新中...
 
 # 功能建议
 
