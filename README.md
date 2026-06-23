@@ -9,24 +9,35 @@
 <table>
     <tr>
         <td align="center" style="word-wrap: break-word; width: 200; height: 200">
-            <img src="./assets/images/Snipaste_2026-06-23_11-24-02.png" width="200"/>
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_11-24-02.png" width="200"/>
         </td>
         <td align="center" style="word-wrap: break-word; width: 200; height: 200">
-            <img src="./assets/images/Snipaste_2026-06-23_11-26-04.png" width="200"/>
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_11-26-04.png" width="200"/>
         </td>
         <td align="center" style="word-wrap: break-word; width: 200; height: 200">
-            <img src="./assets/images/Snipaste_2026-06-23_11-25-24.png" width="200"/>
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_11-25-24.png" width="200"/>
         </td>
         <td align="center" style="word-wrap: break-word; width: 200; height: 200">
-            <img src="./assets/images/Snipaste_2026-06-23_11-26-15.png" width="200"/>
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_11-26-15.png" width="200"/>
         </td>
         <td align="center" style="word-wrap: break-word; width: 200; height: 200">
-            <img src="./assets/images/Snipaste_2026-06-23_11-29-22.png" width="200"/>
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_11-29-22.png" width="200"/>
         </td>
     </tr>
 </table>
 
 - 导出的pdf文件节点超链接支持点击
+
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_13-37-45.png" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/1782193771271.mp4" width="200"/>
+        </td>
+    </tr>
+</table>
 
 - 支持导入xlsx、Freemind格式文件
 
