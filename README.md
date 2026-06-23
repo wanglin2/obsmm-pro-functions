@@ -41,9 +41,33 @@
 
 - 支持导入xlsx、Freemind格式文件
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/2.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 支持粘贴Markdown、Txt内容导入
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/3.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 支持导入为当前激活节点的下级
+
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/4.gif" width="200"/>
+        </td>
+    </tr>
+</table>
 
 - 支持填空模式
 
