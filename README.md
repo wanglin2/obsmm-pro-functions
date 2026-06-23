@@ -216,6 +216,17 @@
 >
 > 5.支持拖拽调整高度；
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/14.gif" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/15.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 支持扩展思维导图可用的字体
 
 > 1.在设置中管理字体；
