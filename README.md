@@ -84,7 +84,7 @@
     </tr>
 </table>
 
-- 专业版专属结构
+- 专属结构
 
 > 专业版支持更多结构：表格、时间轴、鱼骨图。
 
@@ -128,13 +128,48 @@
 
 - 节点支持一键编号
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/8.gif" width="200"/>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/Snipaste_2026-06-23_15-21-39.png" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 节点支持添加待办
+
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/9.gif" width="200"/>
+        </td>
+    </tr>
+</table>
 
 - 支持隐藏节点文本
 
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/10.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
 - 节点连线支持虚线流动效果
 
-- 专业版专属节点形状
+<table>
+    <tr>
+        <td align="center" style="word-wrap: break-word; width: 200; height: 200">
+            <img src="./assets/images/0.2.1/11.gif" width="200"/>
+        </td>
+    </tr>
+</table>
+
+- 专属节点形状
 
 - 节点外框样式支持设置不包含子节点
 
